@@ -48,5 +48,7 @@ The model achieves highly competitive results on the **FER2013** dataset:
                         --in_22k 
                         --num-workers=0 
                         --model-size='tiny'
+
+5. [Download model](https://huggingface.co/twuan/EmoNeXt-FER-Optimized)
 ## Acknowledgments
 Original EmoNeXt paper: "EmoNeXt: an Adapted ConvNeXt for facial Emotion Recognition". This codebase builds upon the original implementation.   
